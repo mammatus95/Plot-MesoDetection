@@ -13,6 +13,5 @@ In the first run, the required shapefiles will be downloaded. This produces some
 
 ## Examples
 ### 
-
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://userpage.fu-berlin.de/kretschmem95/meso/day/20200701.png)
+![2020.07.01](https://userpage.fu-berlin.de/kretschmem95/meso/day/20200701.png)
